@@ -11,6 +11,6 @@
 - ZedCam Processing -- [Federico Figari T.](https://github.com/Fede1995)
 - [HHP-Net](https://github.com/Malga-Vision/HHP-Net) -- Giorgio Cantarini
 - [MoCA dataset](https://github.com/Malga-Vision/MoCA-Project) -- [Elena Nicora](https://github.com/elenanicora)
-- [USV Detection and Tracking] (https://github.com/issamouawad/MSThesis_Code) -- [Issa Mouawad](https://github.com/issamouawad)
+- [USV Detection and Tracking](https://github.com/issamouawad/MSThesis_Code) -- [Issa Mouawad](https://github.com/issamouawad)
 - [Breast Cancer segmentation](https://github.com/Malga-Vision/Breast-Cancer-Segmentation) -- [Jacopo Dapueto](https://github.com/LazyRacc00n)
 - [Marine project](https://github.com/Malga-Vision/Marine_project) -- [Jacopo Dapueto](https://github.com/LazyRacc00n)
