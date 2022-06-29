@@ -14,3 +14,4 @@
 - [USV Detection and Tracking](https://github.com/issamouawad/MSThesis_Code) -- [Issa Mouawad](https://github.com/issamouawad)
 - [Breast Cancer segmentation](https://github.com/Malga-Vision/Breast-Cancer-Segmentation) -- [Jacopo Dapueto](https://github.com/LazyRacc00n)
 - [Marine project](https://github.com/Malga-Vision/Marine_project) -- [Jacopo Dapueto](https://github.com/LazyRacc00n)
+- [Cariplo Project](https://github.com/Malga-Vision/Cariplo-Project) -- [Simone Campisi](https://github.com/simonecampisi97)
