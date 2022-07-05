@@ -17,7 +17,7 @@
 - [Cariplo Project](https://github.com/Malga-Vision/Cariplo-Project) -- [Simone Campisi](https://github.com/simonecampisi97)
 - [Markerless Body Machine Interface](https://github.com/Malga-Vision/MarkerlessBoMI) -- [Matteo Moro](https://github.com/MoroMatteo) & [Fabio Rizzoglio](https://github.com/frinzi)
 - [Epilepsy Project](https://github.com/Malga-Vision/Epilepsy_Project) -- [Matteo Moro](https://github.com/MoroMatteo) & [Vito Paolo Pastore](https://github.com/VitoPaoloPastore)
-- [Infants Parameters]() -- [Matteo Moro](https://github.com/MoroMatteo) & [Luca Garello](https://github.com/MissingSignal) & [Vito Paolo Pastore](https://github.com/VitoPaoloPastore)
+- [Infants Parameters](https://github.com/Malga-Vision/Infants_Motion_Parameters) -- [Matteo Moro](https://github.com/MoroMatteo) & [Luca Garello](https://github.com/MissingSignal) & [Vito Paolo Pastore](https://github.com/VitoPaoloPastore)
 - [Infants Graphs]() -- [Matteo Moro](https://github.com/MoroMatteo) & [Davide Garbarino](https://github.com/DaviGarba)
 - [2D Gait Analysis]() -- [Matteo Moro](https://github.com/MoroMatteo) & [Giorgia Marchesi]()
 - [3D Gait Analysis](https://github.com/Malga-Vision/3D_GaitAnalysis) -- [Matteo Moro](https://github.com/MoroMatteo) & [Filip Hesse](https://github.com/FilipHesse)
