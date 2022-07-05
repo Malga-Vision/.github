@@ -21,3 +21,4 @@
 - [Infants Graphs]() -- [Matteo Moro](https://github.com/MoroMatteo) & [Davide Garbarino](https://github.com/DaviGarba)
 - [2D Gait Analysis](https://github.com/Malga-Vision/2D_Gait_Analysis) -- [Matteo Moro](https://github.com/MoroMatteo) & [Giorgia Marchesi]()
 - [3D Gait Analysis](https://github.com/Malga-Vision/3D_GaitAnalysis) -- [Matteo Moro](https://github.com/MoroMatteo) & [Filip Hesse](https://github.com/FilipHesse)
+- [Tuning-No Tuning](https://github.com/Malga-Vision/tuning-no_tuning) -- [Paolo Alfano](https://github.com/WackoToe) & [Vito Paolo Pastore](https://github.com/VitoPaoloPastore)
