@@ -16,7 +16,7 @@
 - [Marine project](https://github.com/Malga-Vision/Marine_project) -- [Jacopo Dapueto](https://github.com/LazyRacc00n)
 - [Cariplo Project](https://github.com/Malga-Vision/Cariplo-Project) -- [Simone Campisi](https://github.com/simonecampisi97)
 - [Markerless Body Machine Interface](https://github.com/Malga-Vision/MarkerlessBoMI) -- [Matteo Moro](https://github.com/MoroMatteo) & [Fabio Rizzoglio](https://github.com/frinzi)
-- [Epilepsy Project]() -- [Matteo Moro](https://github.com/MoroMatteo) & [Vito Paolo Pastore](https://github.com/VitoPaoloPastore)
+- [Epilepsy Project](https://github.com/Malga-Vision/Epilepsy_Project) -- [Matteo Moro](https://github.com/MoroMatteo) & [Vito Paolo Pastore](https://github.com/VitoPaoloPastore)
 - [Infants Parameters]() -- [Matteo Moro](https://github.com/MoroMatteo) & [Luca Garello](https://github.com/MissingSignal) & [Vito Paolo Pastore](https://github.com/VitoPaoloPastore)
 - [Infants Graphs]() -- [Matteo Moro](https://github.com/MoroMatteo) & [Davide Garbarino](https://github.com/DaviGarba)
 - [2D Gait Analysis]() -- [Matteo Moro](https://github.com/MoroMatteo) & [Giorgia Marchesi]()
