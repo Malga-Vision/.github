@@ -2,7 +2,7 @@
 
 
 ## Projects:
-- [Time-to-Label: Multi-view stereo extension](https://github.com/Malga-Vision/time_to_label_mvs)-- [Issa Mouawad](https://github.com/issamouawad)
+- [Time-to-Label: Multi-view stereo extension](https://github.com/Malga-Vision/self-3D-multiview)-- [Issa Mouawad](https://github.com/issamouawad)
 - [Time-To-Label](https://github.com/Malga-Vision/time-to-label)-- [Issa Mouawad](https://github.com/issamouawad)
 - [MediaPipe tool](https://github.com/Malga-Vision/MediaPipe)-- [Federico Figari T.](https://github.com/Fede1995)
 - [LAEO demo](https://github.com/Malga-Vision/LAEO_demo)-- [Federico Figari T.](https://github.com/Fede1995)
