@@ -9,7 +9,7 @@
 - [HHP-Net private](https://github.com/Malga-Vision/HHP-Net-Private)-- [Federico Figari T.](https://github.com/Fede1995)
 - [FasterVideo](https://github.com/Malga-Vision/fastervideo) -- [Issa Mouawad](https://github.com/issamouawad)
 - [EGO4D forecasting challenge](https://github.com/Malga-Vision/ego4d_forecasting) -- [Federico Figari T.](https://github.com/Fede1995)
-- ZedCam Processing -- [Federico Figari T.](https://github.com/Fede1995)
+- [ZedCam Processing] (https://github.com/Malga-Vision/Zedcam_Processing) -- [Federico Figari T.](https://github.com/Fede1995)
 - [HHP-Net](https://github.com/Malga-Vision/HHP-Net) -- [Federico Figari T.](https://github.com/Fede1995) and Giorgio Cantarini
 - [MoCA dataset](https://github.com/Malga-Vision/MoCA-Project) -- [Elena Nicora](https://github.com/elenanicora)
 - [Efficient video filtering using 3D Gray-Code Kernels](https://github.com/Malga-Vision/3DGrayCodeKernels) -- [Elena Nicora](https://github.com/elenanicora)
