@@ -26,3 +26,4 @@
 - [3D Gait Analysis](https://github.com/Malga-Vision/3D_GaitAnalysis) -- [Matteo Moro](https://github.com/MoroMatteo) & [Filip Hesse](https://github.com/FilipHesse)
 - [Tuning-No Tuning](https://github.com/Malga-Vision/tuning-no_tuning) -- [Paolo Alfano](https://github.com/WackoToe) & [Vito Paolo Pastore](https://github.com/VitoPaoloPastore)
 - [Phenotype mapping](https://github.com/Malga-Vision/Phenotype-mapping) -- [Paolo Alfano](https://github.com/WackoToe) & [Vito Paolo Pastore](https://github.com/VitoPaoloPastore)
+- [Neural engineering analysis](https://github.com/Malga-Vision/Neural-engineering-analysis) -- [Vito Paolo Pastore](https://github.com/VitoPaoloPastore)
