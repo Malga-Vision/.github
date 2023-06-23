@@ -1,8 +1,9 @@
 # Official MaLGa Vision Code Repository
 
 # PUBLIC RESOUCES:
-## CV and DL in clinics:
-- Gait analysis: 
+## 1. CV and DL in clinics:
+- [2D gait analysis](https://dl.acm.org/doi/pdf/10.1145/3341105.3373963?casa_token=5_n-I5jlnakAAAAA:3AIq44bLK3AqoTDaLIlozV8aOYY85dJOaprOXMTKnIdzp3vhNl0XclUjj_sSXZ2w0WqcOYDdAKfuTA)
+- [3D gait analysis](https://www.mdpi.com/1424-8220/22/5/2011/pdf) 
 
 
 # ONGOING INTERNAL PROJECTS:
