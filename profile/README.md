@@ -1,12 +1,12 @@
 # Official MaLGa Vision Code Repository
 
-# PUBLIC RESOUCES:
-## 1. CV and DL in clinics:
+# PUBLIC RESOUCES
+## 1. CV and DL in clinics
 - 2D gait analysis: [Markerless gait analysis in stroke survivors based on computer vision and deep learning: a pilot study](https://dl.acm.org/doi/pdf/10.1145/3341105.3373963?casa_token=5_n-I5jlnakAAAAA:3AIq44bLK3AqoTDaLIlozV8aOYY85dJOaprOXMTKnIdzp3vhNl0XclUjj_sSXZ2w0WqcOYDdAKfuTA)
 - 3D gait analysis: [Markerless vs. Marker-Based Gait Analysis: A Proof of Concept Study](https://www.mdpi.com/1424-8220/22/5/2011/pdf) 
 
 
-# ONGOING INTERNAL PROJECTS:
+# ONGOING INTERNAL PROJECTS
 - [Time-to-Label: Multi-view stereo extension](https://github.com/Malga-Vision/self-3D-multiview)-- [Issa Mouawad](https://github.com/issamouawad)
 - [Time-To-Label](https://github.com/Malga-Vision/time-to-label)-- [Issa Mouawad](https://github.com/issamouawad)
 - [MediaPipe tool](https://github.com/Malga-Vision/MediaPipe)-- [Federico Figari T.](https://github.com/Fede1995)
