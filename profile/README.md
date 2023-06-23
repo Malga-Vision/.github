@@ -1,9 +1,19 @@
 # Official MaLGa Vision Code Repository
 
 # PUBLIC RESOUCES
-## 1. CV and DL in clinics
+## 1. Human motion analysis and characterization
 - 2D gait analysis: [Markerless gait analysis in stroke survivors based on computer vision and deep learning: a pilot study](https://dl.acm.org/doi/pdf/10.1145/3341105.3373963?casa_token=5_n-I5jlnakAAAAA:3AIq44bLK3AqoTDaLIlozV8aOYY85dJOaprOXMTKnIdzp3vhNl0XclUjj_sSXZ2w0WqcOYDdAKfuTA)
-- 3D gait analysis: [Markerless vs. Marker-Based Gait Analysis: A Proof of Concept Study](https://www.mdpi.com/1424-8220/22/5/2011/pdf) 
+- 3D gait analysis: [Markerless vs. Marker-Based Gait Analysis: A Proof of Concept Study](https://www.mdpi.com/1424-8220/22/5/2011/pdf)
+- Epileptic seizures classification: [Automatic Video Analysis and Classification of Sleep‐related Hypermotor seizures and Disorders of Arousal](https://onlinelibrary.wiley.com/doi/pdf/10.1111/epi.17605?casa_token=KMc-z1XBqh0AAAAA:ogutSTKNZjndbhEjGCD0VIN6e2JA70qoNDW_Sp5--fYk79vbsSba4yCQmOhORf7qsuD8PWpYbeDecaY)
+- Heading and gaze estimation: [HHP-Net](https://github.com/Malga-Vision/HHP-Net) -- [HHP-Net: A light Heteroscedastic neural network for Head Pose estimation with uncertainty](https://openaccess.thecvf.com/content/WACV2022/papers/Cantarini_HHP-Net_A_Light_Heteroscedastic_Neural_Network_for_Head_Pose_Estimation_WACV_2022_paper.pdf)
+## 2. Object detection and tracking
+- [FasterVideo](https://github.com/Malga-Vision/fastervideo): [FasterVideo: Efficient Online Joint Object Detection and Tracking](https://arxiv.org/pdf/2204.07394.pdf)
+- [USV Detection and Tracking](https://github.com/issamouawad/MSThesis_Code)
+## 3. Datasets
+- Cooking Actions Dataset: [MoCA dataset](https://github.com/Malga-Vision/MoCA-Project) -- [The MoCA dataset, kinematic and multi-view visual streams of fine-grained cooking actions](https://www.nature.com/articles/s41597-020-00776-9)
+## 4. Video analysis
+- [Efficient video filtering using 3D Gray-Code Kernels](https://github.com/Malga-Vision/3DGrayCodeKernels)
+- [Motion Saliency Detection using 3D Gray-Code Kernels](https://github.com/Malga-Vision/GCKsSaliencySegmentation)
 
 
 # ONGOING INTERNAL PROJECTS
