@@ -1,7 +1,11 @@
 # Official MaLGa Vision Code Repository
 
+## PUBLIC RESOUCES:
+# CV and DL in clinics:
+- Gait analysis: 
 
-## Projects:
+
+## ONGOING INTERNAL PROJECTS:
 - [Time-to-Label: Multi-view stereo extension](https://github.com/Malga-Vision/self-3D-multiview)-- [Issa Mouawad](https://github.com/issamouawad)
 - [Time-To-Label](https://github.com/Malga-Vision/time-to-label)-- [Issa Mouawad](https://github.com/issamouawad)
 - [MediaPipe tool](https://github.com/Malga-Vision/MediaPipe)-- [Federico Figari T.](https://github.com/Fede1995)
