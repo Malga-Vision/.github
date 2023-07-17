@@ -6,6 +6,7 @@
 - 3D gait analysis: [Markerless vs. Marker-Based Gait Analysis: A Proof of Concept Study](https://www.mdpi.com/1424-8220/22/5/2011/pdf)
 - Epileptic seizures classification: [Automatic Video Analysis and Classification of Sleep‐related Hypermotor seizures and Disorders of Arousal](https://onlinelibrary.wiley.com/doi/pdf/10.1111/epi.17605?casa_token=KMc-z1XBqh0AAAAA:ogutSTKNZjndbhEjGCD0VIN6e2JA70qoNDW_Sp5--fYk79vbsSba4yCQmOhORf7qsuD8PWpYbeDecaY)
 - Heading and gaze estimation: [HHP-Net: A light Heteroscedastic neural network for Head Pose estimation with uncertainty](https://openaccess.thecvf.com/content/WACV2022/papers/Cantarini_HHP-Net_A_Light_Heteroscedastic_Neural_Network_for_Head_Pose_Estimation_WACV_2022_paper.pdf) - [code](https://github.com/Malga-Vision/HHP-Net)
+- [LAEO demo](https://github.com/Malga-Vision/LAEO_demo) an application of HHP-Net
 ## 2. Object detection and tracking
 - [FasterVideo](https://github.com/Malga-Vision/fastervideo): [FasterVideo: Efficient Online Joint Object Detection and Tracking](https://arxiv.org/pdf/2204.07394.pdf)
 - [USV Detection and Tracking](https://github.com/issamouawad/MSThesis_Code)
@@ -20,7 +21,6 @@
 - [Time-to-Label: Multi-view stereo extension](https://github.com/Malga-Vision/self-3D-multiview)-- [Issa Mouawad](https://github.com/issamouawad)
 - [Time-To-Label](https://github.com/Malga-Vision/time-to-label)-- [Issa Mouawad](https://github.com/issamouawad)
 - [MediaPipe tool](https://github.com/Malga-Vision/MediaPipe)-- [Federico Figari T.](https://github.com/Fede1995)
-- [LAEO demo](https://github.com/Malga-Vision/LAEO_demo)-- [Federico Figari T.](https://github.com/Fede1995)
 - [HHP-Net private](https://github.com/Malga-Vision/HHP-Net-Private)-- [Federico Figari T.](https://github.com/Fede1995)
 - [FasterVideo](https://github.com/Malga-Vision/fastervideo) -- [Issa Mouawad](https://github.com/issamouawad)
 - [EGO4D forecasting challenge](https://github.com/Malga-Vision/ego4d_forecasting) -- [Federico Figari T.](https://github.com/Fede1995)
