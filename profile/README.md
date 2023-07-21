@@ -42,3 +42,4 @@
 - [Tuning-No Tuning](https://github.com/Malga-Vision/tuning-no_tuning) -- [Paolo Alfano](https://github.com/WackoToe) & [Vito Paolo Pastore](https://github.com/VitoPaoloPastore)
 - [Phenotype mapping](https://github.com/Malga-Vision/Phenotype-mapping) -- [Paolo Alfano](https://github.com/WackoToe) & [Vito Paolo Pastore](https://github.com/VitoPaoloPastore)
 - [Neural engineering analysis](https://github.com/Malga-Vision/Neural-engineering-analysis) -- [Vito Paolo Pastore](https://github.com/VitoPaoloPastore) & [Jacopo Dapueto](https://github.com/LazyRacc00n)
+- [Esaote US Project](https://github.com/Malga-Vision/EsaoteUS) -- [Simone Testa](https://github.com/simo-net)
