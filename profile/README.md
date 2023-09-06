@@ -5,7 +5,7 @@
 - 2D gait analysis: [Markerless gait analysis in stroke survivors based on computer vision and deep learning: a pilot study](https://dl.acm.org/doi/pdf/10.1145/3341105.3373963?casa_token=5_n-I5jlnakAAAAA:3AIq44bLK3AqoTDaLIlozV8aOYY85dJOaprOXMTKnIdzp3vhNl0XclUjj_sSXZ2w0WqcOYDdAKfuTA)
 - 3D gait analysis: [Markerless vs. Marker-Based Gait Analysis: A Proof of Concept Study](https://www.mdpi.com/1424-8220/22/5/2011/pdf)
 - Epileptic seizures classification: [Automatic Video Analysis and Classification of Sleep‐related Hypermotor seizures and Disorders of Arousal](https://onlinelibrary.wiley.com/doi/pdf/10.1111/epi.17605?casa_token=KMc-z1XBqh0AAAAA:ogutSTKNZjndbhEjGCD0VIN6e2JA70qoNDW_Sp5--fYk79vbsSba4yCQmOhORf7qsuD8PWpYbeDecaY)
-- Heading and gaze estimation:[code](https://github.com/Malga-Vision/HHP-Net) 
+- HHP-Net - Head Pose Estimation:[HHP-Net](https://github.com/Malga-Vision/HHP-Net) 
 - [LAEO demo](https://github.com/Malga-Vision/LAEO_demo) an application of HHP-Net
 ## 2. Object detection and tracking
 - [FasterVideo](https://github.com/Malga-Vision/fastervideo): [FasterVideo: Efficient Online Joint Object Detection and Tracking](https://arxiv.org/pdf/2204.07394.pdf)
