@@ -1,4 +1,4 @@
-# Official MaLGa Vision Code Repository
+# Official [MaLGa](https://malga.unige.it/) Vision Code Repository
 
 # PUBLIC RESOURCES
 ## 1. Human motion analysis and characterization
