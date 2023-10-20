@@ -49,4 +49,4 @@
 - [Dot Code Detection](https://github.com/Malga-Vision/DotCodeDetectionFeasibilityStudyProject.git) -- Alexander Statsenko
 
 # READING GROUP TUTORIALS
-
+-[Easy Diffusion Models]() -- [Jacopo Dapueto](https://github.com/LazyRacc00n) and [Federico Figari T.](https://github.com/Fede1995)
