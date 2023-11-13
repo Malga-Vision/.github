@@ -34,8 +34,8 @@
 - [Breast Cancer segmentation](https://github.com/Malga-Vision/Breast-Cancer-Segmentation) -- [Jacopo Dapueto](https://github.com/LazyRacc00n)
 - [Marine project](https://github.com/Malga-Vision/Marine_project) -- [Jacopo Dapueto](https://github.com/LazyRacc00n)
 - [Cariplo Project](https://github.com/Malga-Vision/Cariplo-Project) -- [Simone Campisi](https://github.com/simonecampisi97)
-- [Markerless Body Machine Interface](https://github.com/Malga-Vision/MarkerlessBoMI) -- [Matteo Moro](https://github.com/MoroMatteo) & [Fabio Rizzoglio](https://github.com/frinzi) & [Mattia Pedemonte]()
-- [Markerless BoMI for robot control](https://github.com/Malga-Vision/markerlessBoMI_Tiago.git) -- [Matteo Moro](https://github.com/MoroMatteo) & 
+- [Markerless Body Machine Interface](https://github.com/Malga-Vision/MarkerlessBoMI) -- [Matteo Moro](https://github.com/MoroMatteo) & [Fabio Rizzoglio](https://github.com/frinzi) & [Mattia Pedemonte](https://github.com/MattiaPedemonte)
+- [Markerless BoMI for robot control](https://github.com/Malga-Vision/markerlessBoMI_Tiago.git) -- [Matteo Moro](https://github.com/MoroMatteo) & [Mattia Pedemonte](https://github.com/MattiaPedemonte)
 - [Epilepsy Project](https://github.com/Malga-Vision/Epilepsy_Project) -- [Matteo Moro](https://github.com/MoroMatteo) & [Vito Paolo Pastore](https://github.com/VitoPaoloPastore)
 - [Infants Parameters](https://github.com/Malga-Vision/Infants_Motion_Parameters) -- [Matteo Moro](https://github.com/MoroMatteo) & [Luca Garello](https://github.com/MissingSignal) & [Vito Paolo Pastore](https://github.com/VitoPaoloPastore)
 - [Infants Graphs]() -- [Matteo Moro](https://github.com/MoroMatteo) & [Davide Garbarino](https://github.com/DaviGarba)
