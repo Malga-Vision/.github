@@ -47,6 +47,7 @@
 - [Esaote US Project](https://github.com/Malga-Vision/EsaoteUS) -- [Simone Testa](https://github.com/simo-net)
 - [Computer vision methods for automatic volume calibration in MRI medical images](https://github.com/roberto98/Automatic_Volume_Calibration_MRI_Images) -- [Vito Paolo Pastore](https://github.com/VitoPaoloPastore) & [Roberto Di Via](https://github.com/roberto98)
 - [Optical Probe Circle Ellipse Parameter Estimation](https://github.com/Malga-Vision/SondaProject.git) -- Alexander Statsenko
+- [Optical Probe ML](https://github.com/Malga-Vision/Optical-Probe-ML.git) -- Alexander Statsenko
 - [Dot Code Detection](https://github.com/Malga-Vision/DotCodeDetectionFeasibilityStudyProject.git) -- Alexander Statsenko
 
 # READING GROUP TUTORIALS
