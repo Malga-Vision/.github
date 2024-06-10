@@ -48,6 +48,7 @@
 - [Neural engineering analysis](https://github.com/Malga-Vision/Neural-engineering-analysis) -- [Vito Paolo Pastore](https://github.com/VitoPaoloPastore) & [Jacopo Dapueto](https://github.com/LazyRacc00n)
 - [Esaote US Project](https://github.com/Malga-Vision/EsaoteUS) -- [Simone Testa](https://github.com/simo-net)
 - [Computer vision methods for automatic volume calibration in MRI medical images](https://github.com/roberto98/Automatic_Volume_Calibration_MRI_Images) -- [Vito Paolo Pastore](https://github.com/VitoPaoloPastore) & [Roberto Di Via](https://github.com/roberto98)
+- [AFOSR Gait Analysis Inertial Data](https://github.com/Malga-Vision/AFOSR-Gait-Analysis-Inertial-Data.git) -- Alexander Statsenko
 - [Optical Probe Circle Ellipse Parameter Estimation](https://github.com/Malga-Vision/SondaProject.git) -- Alexander Statsenko
 - [Optical Probe ML](https://github.com/Malga-Vision/Optical-Probe-ML-2.git) -- Alexander Statsenko
 - [Dot Code Detection](https://github.com/Malga-Vision/DotCodeDetectionFeasibilityStudyProject.git) -- Alexander Statsenko
