@@ -7,6 +7,7 @@
 - Epileptic seizures classification: [Automatic Video Analysis and Classification of Sleep‐related Hypermotor seizures and Disorders of Arousal](https://onlinelibrary.wiley.com/doi/pdf/10.1111/epi.17605?casa_token=KMc-z1XBqh0AAAAA:ogutSTKNZjndbhEjGCD0VIN6e2JA70qoNDW_Sp5--fYk79vbsSba4yCQmOhORf7qsuD8PWpYbeDecaY)
 - HHP-Net - Head Pose Estimation:[HHP-Net](https://github.com/Malga-Vision/HHP-Net) 
 - [LAEO demo](https://github.com/Malga-Vision/LAEO_demo) an application of HHP-Net
+- Anticipation Proof-of-Concept for [GROUND Workshop project](https://github.com/Malga-Vision/Workshop_GROUND)-- [Federico Figari T.](https://github.com/Fede1995)
 ## 2. Object detection and tracking
 - [FasterVideo](https://github.com/Malga-Vision/fastervideo): [FasterVideo: Efficient Online Joint Object Detection and Tracking](https://arxiv.org/pdf/2204.07394.pdf)
 - [USV Detection and Tracking](https://github.com/issamouawad/MSThesis_Code)
