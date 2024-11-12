@@ -17,7 +17,8 @@
 - [Efficient video filtering using 3D Gray-Code Kernels](https://github.com/Malga-Vision/3DGrayCodeKernels)
 - [Motion Saliency Detection using 3D Gray-Code Kernels](https://github.com/Malga-Vision/GCKsSaliencySegmentation)
 
-
+## Representation Learning
+- [Transferring disentangled representations: bridging the gap between synthetic and real images](https://github.com/JacopoDapueto/transfer_disentanglement)
 # ONGOING INTERNAL PROJECTS
 - [Time-to-Label: Multi-view stereo extension](https://github.com/Malga-Vision/self-3D-multiview)-- [Issa Mouawad](https://github.com/issamouawad)
 - [Time-To-Label](https://github.com/Malga-Vision/time-to-label)-- [Issa Mouawad](https://github.com/issamouawad)
