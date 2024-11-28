@@ -30,6 +30,7 @@
 - [Scene Graph Generation](https://github.com/Malga-Vision/Scene_Graph_Generation.git) -- [Federico Figari T.](https://github.com/Fede1995) [Clara Mouawad](https://github.com/claramouawad)
 - [HHP-Net](https://github.com/Malga-Vision/HHP-Net) -- [Federico Figari T.](https://github.com/Fede1995) & Giorgio Cantarini
 - [MinimalActionClassification](https://github.com/Malga-Vision/MinimalActionClassification/tree/master) -- [Federico Figari T.](https://github.com/Fede1995)
+- [MOSAIC](https://github.com/Malga-Vision/MOSAIC.git) -- [Federico Figari T.](https://github.com/Fede1995)
 - [RainNet_v2.0](https://github.com/Malga-Vision/RainNet_v2.0) -- Manasa & [Federico Figari T.](https://github.com/Fede1995)
 - [MoCA dataset](https://github.com/Malga-Vision/MoCA-Project) -- [Elena Nicora](https://github.com/elenanicora)
 - [Efficient video filtering using 3D Gray-Code Kernels](https://github.com/Malga-Vision/3DGrayCodeKernels) -- [Elena Nicora](https://github.com/elenanicora)
@@ -54,6 +55,9 @@
 - [Optical Probe Circle Ellipse Parameter Estimation](https://github.com/Malga-Vision/SondaProject.git) -- Alexander Statsenko
 - [Optical Probe ML](https://github.com/Malga-Vision/Optical-Probe-ML-2.git) -- Alexander Statsenko
 - [Dot Code Detection](https://github.com/Malga-Vision/DotCodeDetectionFeasibilityStudyProject.git) -- Alexander Statsenko
+
+## Internal Files, Guides and tutorials
+- [Fede Figari useful files](https://github.com/Malga-Vision/FedeFigari_Files) -- [Federico Figari T.](https://github.com/Fede1995)
 
 # READING GROUP TUTORIALS
 -[Easy Diffusion Models](https://github.com/Malga-Vision/Diffusion_Model_HandsOn#step-2-the-tutorial-with-explanations-and-a-trained-network) -- [Jacopo Dapueto](https://github.com/LazyRacc00n) and [Federico Figari T.](https://github.com/Fede1995)
