@@ -57,6 +57,7 @@
 - [Dot Code Detection](https://github.com/Malga-Vision/DotCodeDetectionFeasibilityStudyProject.git) -- Alexander Statsenko
 
 ## Internal Files, Guides and tutorials
+- [How to use & connect to servers at MaLGa 1](https://github.com/Malga-Vision/user-manual-for-new-users-of-MaLGa-machines)
 - [Fede Figari useful files](https://github.com/Malga-Vision/FedeFigari_Files) -- [Federico Figari T.](https://github.com/Fede1995)
 
 # READING GROUP TUTORIALS
