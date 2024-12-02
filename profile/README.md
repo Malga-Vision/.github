@@ -17,7 +17,7 @@
 - [Efficient video filtering using 3D Gray-Code Kernels](https://github.com/Malga-Vision/3DGrayCodeKernels)
 - [Motion Saliency Detection using 3D Gray-Code Kernels](https://github.com/Malga-Vision/GCKsSaliencySegmentation)
 
-## Representation Learning
+## Disentangled Representation Learning
 - [Transferring disentangled representations: bridging the gap between synthetic and real images](https://github.com/JacopoDapueto/transfer_disentanglement)
 
 ## Bias Discovery & Mitigation
