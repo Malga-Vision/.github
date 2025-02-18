@@ -13,6 +13,7 @@
 - [USV Detection and Tracking](https://github.com/issamouawad/MSThesis_Code)
 ## 3. Datasets
 - Cooking Actions Dataset: [The MoCA dataset, kinematic and multi-view visual streams of fine-grained cooking actions](https://www.nature.com/articles/s41597-020-00776-9) - [MoCA dataset](https://github.com/Malga-Vision/MoCA-Project)
+- Facade Building Defects: [The dataset include images images to perform the classification of defects in building facade ](https://ieeexplore.ieee.org/document/10747365) - [FBD dataset](https://github.com/Malga-Vision/FBD-Dataset)
 ## 4. Video analysis
 - [Efficient video filtering using 3D Gray-Code Kernels](https://github.com/Malga-Vision/3DGrayCodeKernels)
 - [Motion Saliency Detection using 3D Gray-Code Kernels](https://github.com/Malga-Vision/GCKsSaliencySegmentation)
