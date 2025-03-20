@@ -59,7 +59,7 @@
 - [Optical Probe Circle Ellipse Parameter Estimation](https://github.com/Malga-Vision/SondaProject.git) -- Alexander Statsenko
 - [Optical Probe ML](https://github.com/Malga-Vision/Optical-Probe-ML-2.git) -- Alexander Statsenko
 - [Dot Code Detection](https://github.com/Malga-Vision/DotCodeDetectionFeasibilityStudyProject.git) -- Alexander Statsenko
-- [Standard plane classification Esaote](https://github.com/Malga-Vision/SP-classification) --  Matteo Interlando
+- [Standard plane classification Esaote](https://github.com/Malga-Vision/SP-classification) --  [Matteo Interlando](https://github.com/matte995)
 
 ## Internal Files, Guides and tutorials
 - [How to use & connect to servers at MaLGa 1](https://github.com/Malga-Vision/user-manual-for-new-users-of-MaLGa-machines)
