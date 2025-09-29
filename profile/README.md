@@ -21,6 +21,9 @@
 ## Disentangled Representation Learning
 - [Transferring disentangled representations: bridging the gap between synthetic and real images](https://github.com/JacopoDapueto/transfer_disentanglement)
 
+## Genetic data analysis 
+- [Phenotypic landscape of an invasive fungal pathogen reveals its unique biology] https://github.com/Malga-Vision/PhenotypicLandscapeCryptococcus
+
 ## Bias Discovery & Mitigation
 - [Looking at Model Debiasing through the Lens of Anomaly Detection](https://github.com/Malga-Vision/MoDAD)
 # ONGOING INTERNAL PROJECTS
