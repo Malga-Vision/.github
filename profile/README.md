@@ -67,7 +67,8 @@
 ## Internal Files, Guides and tutorials
 - [How to use & connect to servers at MaLGa 1](https://github.com/Malga-Vision/user-manual-for-new-users-of-MaLGa-machines)
 - [Fede Figari useful files](https://github.com/Malga-Vision/FedeFigari_Files) -- [Federico Figari T.](https://github.com/Fede1995)
-- [ResNet_vs_Dino](https://github.com/Malga-Vision/ResNet_vs_Dino) 
+
 
 # READING GROUP TUTORIALS
--[Easy Diffusion Models](https://github.com/Malga-Vision/Diffusion_Model_HandsOn#step-2-the-tutorial-with-explanations-and-a-trained-network) -- [Jacopo Dapueto](https://github.com/LazyRacc00n) and [Federico Figari T.](https://github.com/Fede1995)
+- [Easy Diffusion Models](https://github.com/Malga-Vision/Diffusion_Model_HandsOn#step-2-the-tutorial-with-explanations-and-a-trained-network) - [Jacopo Dapueto](https://github.com/LazyRacc00n) and [Federico Figari T.](https://github.com/Fede1995)
+- [Comparison of ResNet and Dino Features](https://github.com/Malga-Vision/ResNet_vs_Dino) by Mohammad Zohaib
