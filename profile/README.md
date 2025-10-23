@@ -25,7 +25,9 @@
 - [Phenotypic landscape of an invasive fungal pathogen reveals its unique biology](https://github.com/Malga-Vision/PhenotypicLandscapeCryptococcus)
 
 ## Bias Discovery & Mitigation
-- [Looking at Model Debiasing through the Lens of Anomaly Detection](https://github.com/Malga-Vision/MoDAD)
+- [Looking at Model Debiasing through the Lens of Anomaly Detection](https://github.com/Malga-Vision/MoDAD) 
+- [Diffusing DeBias: Synthetic Bias Amplification for Model Debiasing](https://github.com/Malga-Vision/DiffusingDeBias) 
+
 # ONGOING INTERNAL PROJECTS
 - [Time-to-Label: Multi-view stereo extension](https://github.com/Malga-Vision/self-3D-multiview)-- [Issa Mouawad](https://github.com/issamouawad)
 - [Time-To-Label](https://github.com/Malga-Vision/time-to-label)-- [Issa Mouawad](https://github.com/issamouawad)
