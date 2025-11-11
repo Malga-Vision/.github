@@ -73,4 +73,5 @@
 
 # READING GROUP TUTORIALS
 - [Easy Diffusion Models](https://github.com/Malga-Vision/Diffusion_Model_HandsOn#step-2-the-tutorial-with-explanations-and-a-trained-network) - [Jacopo Dapueto](https://github.com/LazyRacc00n) and [Federico Figari T.](https://github.com/Fede1995)
-- [Comparison of ResNet and Dino Features](https://github.com/Malga-Vision/ResNet_vs_Dino) by [Mohammad Zohaib](https://zohaibmohammad.github.io/) 
+- [Comparison of ResNet and Dino Features](https://github.com/Malga-Vision/ResNet_vs_Dino) by [Mohammad Zohaib](https://zohaibmohammad.github.io/)
+- [Intro to Weights & Biases](https://github.com/Malga-Vision/wandb_intro/tree/main) by [Massimiliano Ciranni](https://github.com/ResonantFilter)
