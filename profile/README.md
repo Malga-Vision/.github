@@ -20,7 +20,7 @@
 
 ## Disentangled Representation Learning
 - [Transferring disentangled representations: bridging the gap between synthetic and real images](https://github.com/Malga-Vision/transfer_disentangled_representation)
-- [Disentangled representations of microscopy images](https://github.com/Malga-Vision/transfer_disentangled_representation)
+- [Disentangled representations of microscopy images](https://github.com/Malga-Vision/disentangled_representation_microscopy)
 
 ## Genetic data analysis 
 - [Phenotypic landscape of an invasive fungal pathogen reveals its unique biology](https://github.com/Malga-Vision/PhenotypicLandscapeCryptococcus)
