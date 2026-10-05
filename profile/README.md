@@ -19,7 +19,8 @@
 - [Motion Saliency Detection using 3D Gray-Code Kernels](https://github.com/Malga-Vision/GCKsSaliencySegmentation)
 
 ## Disentangled Representation Learning
-- [Transferring disentangled representations: bridging the gap between synthetic and real images]([https://github.com/JacopoDapueto/transfer_disentanglement](https://github.com/Malga-Vision/transfer_disentangled_representation))
+- [Transferring disentangled representations: bridging the gap between synthetic and real images](https://github.com/Malga-Vision/transfer_disentangled_representation)
+- - [Transferring disentangled representations: bridging the gap between synthetic and real images](https://github.com/Malga-Vision/transfer_disentangled_representation)
 
 ## Genetic data analysis 
 - [Phenotypic landscape of an invasive fungal pathogen reveals its unique biology](https://github.com/Malga-Vision/PhenotypicLandscapeCryptococcus)
