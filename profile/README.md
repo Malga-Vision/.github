@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Machine Learning & Vision · MLV
@@ -10,6 +9,8 @@
 </div>
 
 The **Machine Learning & Vision (MLV)** unit develops machine learning and artificial intelligence methods for understanding visual, biomedical, and multimodal data. Our goal is to design computational models that learn meaningful and transferable representations from complex data, enabling robust perception, reasoning, and decision-making in challenging environments.
+
+For more details on our research, visit [malga.unige.it/research/mlv](https://malga.unige.it/research/mlv).
 
 ## 👥 People
 
